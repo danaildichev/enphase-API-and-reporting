@@ -1,0 +1,14 @@
+{
+  "access_token" : "REDACTED",
+  "token_type" : "bearer",
+  "refresh_token" : "REDACTED",
+  "expires_in" : 1,
+  "scope" : "REDACTED",
+  "enl_uid" : "REDACTED",
+  "enl_cid" : "",
+  "enl_password_last_changed" : "REDACTED",
+  "is_internal_app" : false,
+  "app_type" : "system",
+  "app_Id" : "REDACTED",
+  "jti" : "REDACTED"
+}
