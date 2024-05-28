@@ -1,0 +1,21 @@
+{
+  "APP":
+  {
+    "NAME": "Dano's api practice",
+    "DESCRIPTION": "Dummy app development",
+    "PLAN": "Watt",
+    "RATE_LIMIT": 10,
+    "ACCESS_CONTROL": ["System Details", "Site Level Production Monitoring", "Site Level Consumption Monitoring"],
+    "API_KEY": "REDACTED",
+    "CLIENT_ID": "REDACTED",
+    "CLIENT_SECRET": "REDACTED",
+    "AUTH_ID": "REDACTED",
+    "AUTH_REDIRECT": "https://api.enphaseenergy.com/oauth/redirect_uri"
+  },
+
+  "API":
+  {
+    "ROOT": "https://api.enphaseenergy.com",
+    "BASE": "/api/v4/"
+  }
+}

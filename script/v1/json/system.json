@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "REDACTED",
+    "name": "REDACTED",
+    "public_name": "REDACTED",
+    "timezone": "REDACTED",
+    "address": {
+      "city": "REDACTED",
+      "state": "REDACTED",
+      "country": "REDACTED",
+      "postal_code": "REDACTED"
+    },
+    "connection_type": "REDACTED",
+    "operational_at": 1,
+    "attachment_type": "REDACTED",
+    "other_references": "REDACTED",
+    "device_counts": {
+      "micros": 1,
+      "meters": 1,
+      "gateways": 1
+    },
+    "device_ids": {
+      "micros": [
+        1
+      ],
+      "meters": [1],
+      "gateways": [1]
+    },
+    "meter_id_by_name": {
+      "production": 1,
+      "consumption": 1
+    }
+  },
+  "devices": {
+    "micros": "REDACTED",
+    "meters": "REDACTED",
+    "gateway": "REDACTED"
+  }
+}
