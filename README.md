@@ -26,7 +26,7 @@ Coming soon.
 ## Usage
 
 - You will need an Enphase API dev account and a registered app.
-- See the [https://developer-v4.enphase.com/docs/quickstart.html](Enphase API "Quick Start")
+- See the [Enphase API "Quick Start"](https://developer-v4.enphase.com/docs/quickstart.html)
 
 ### MVP
 See script/mvp for an example of how to call the Enphase API. Requires a valid access token.
