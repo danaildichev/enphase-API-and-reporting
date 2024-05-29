@@ -33,7 +33,7 @@ See script/mvp for an example of how to call the Enphase API. Requires a valid a
 
 ### Version 1
 
-Assuming you have a valid access token, the simplest way to print a response from Enphase is to call
+Assuming you have a valid access token, the simplest way to print a response from Enphase is to call the `try_to_get()` function:
 
 ```python
 from utils.Enphase import Enphase
