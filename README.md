@@ -16,6 +16,7 @@ UNDER CONSTRUCTION
 - [Contributing](#contributing)
 - [To Do](#to-do)
 - [License](#license)
+- [Diagrams](#diagrams)
 
 ## Live Demo
 Coming soon.
@@ -79,3 +80,11 @@ PRs accepted.
 ## License
 
 MIT
+
+## Diagrams
+
+[Generating an Enphase API Access Token](https://github.com/danaildichev/enphase-API-and-reporting/blob/main/readme/diagrams/processDiagram_getAccessToEnphaseData.png)
+
+[get_lifetime_data_for() loop](https://github.com/danaildichev/enphase-API-and-reporting/blob/main/readme/diagrams/processDiagram_main-loopForCallingMultipleEndpointsAtOnce.png)
+
+[Plan for what the Reporting Module will do](https://github.com/danaildichev/enphase-API-and-reporting/blob/main/readme/diagrams/processDiagram_internalizeData.png)
